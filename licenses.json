@@ -1,6 +1,9 @@
-{
-  "licenses": [
-
-  ]
-}
-
+[
+  {
+    "username": "dwa",
+    "hwid": "dwa",
+    "type": "month",
+    "createdAt": "2024-12-02T17:05:01.024Z",
+    "expiresAt": "2025-01-02T17:05:01.024Z"
+  }
+]
