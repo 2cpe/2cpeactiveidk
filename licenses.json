@@ -1,28 +1,5 @@
 {
   "licenses": [
-    {
-      "hwid": "8534932798250136332",
-      "expiration": "2024-12-09T14:37:29.211Z"
-    },
-    {
-      "hwid": "dawfewg",
-      "expiration": "2024-12-09T14:57:21.674Z"
-    },
-    {
-      "hwid": "dwa",
-      "expiration": "2025-01-02T15:00:11.868Z"
-    },
-    {
-      "hwid": "dwa",
-      "expiration": null
-    },
-    {
-      "hwid": "dwa",
-      "expiration": "2025-01-02T15:05:23.958Z"
-    },
-    {
-      "hwid": "dwa",
-      "expiration": "2025-01-02T15:05:41.076Z"
-    }
+
   ]
 }
