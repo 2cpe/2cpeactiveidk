@@ -1,28 +1,5 @@
 [
   {
-    "hwid": "dawdawfg",
-    "expiration": "2024-12-02T16:23:13.531Z"
-  },
-  {
-    "username": "JohnDoe",
-    "hwid": "ABC123",
-    "type": "premium",
-    "date": "2024-12-02T16:24:14.243Z"
-  },
-  {
-    "username": "fdwa",
-    "hwid": "dwa",
-    "type": "month",
-    "createdAt": "2024-12-02T16:28:34.286Z",
-    "expiresAt": "2025-01-02T16:28:34.286Z",
-    "status": "active",
-    "expired": false
-  },
-  {
-    "username": "fdwa",
-    "hwid": "dwa",
-    "type": "month",
-    "createdAt": "2024-12-02T16:28:46.128Z",
-    "expiresAt": "2025-01-02T16:28:46.128Z"
+    
   }
 ]
