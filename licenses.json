@@ -15,6 +15,10 @@
     {
       "hwid": "dwa",
       "expiration": null
+    },
+    {
+      "hwid": "dwa",
+      "expiration": "2025-01-02T15:05:23.958Z"
     }
   ]
 }
