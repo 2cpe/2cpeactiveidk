@@ -17,5 +17,12 @@
     "expiresAt": "2025-01-02T16:28:34.286Z",
     "status": "active",
     "expired": false
+  },
+  {
+    "username": "fdwa",
+    "hwid": "dwa",
+    "type": "month",
+    "createdAt": "2024-12-02T16:28:46.128Z",
+    "expiresAt": "2025-01-02T16:28:46.128Z"
   }
 ]
